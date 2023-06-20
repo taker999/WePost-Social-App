@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "384243051367",
+    "project_id": "wepost-74514",
+    "storage_bucket": "wepost-74514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384243051367:android:a6d9480ff8f12009129dc2",
+        "android_client_info": {
+          "package_name": "com.example.wepost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384243051367-bqhu88h7lp2p5058mre8sq7mclsuj13t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wepost",
+            "certificate_hash": "ad1227421f1ad287757b59daa017b7fbc009f5eb"
+          }
+        },
+        {
+          "client_id": "384243051367-9h2lgig2cnfbf3tuc881u2oud94ljklk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyNIQLwCBHhN1gJyX1_AK2ge8HFh21tXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384243051367-9h2lgig2cnfbf3tuc881u2oud94ljklk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
